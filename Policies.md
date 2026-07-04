@@ -142,7 +142,7 @@ L’Utilisateur s'engage également à :
 ![](Privacy%20images/Pasted%20image%2020260704221631.png)
 
 ---
-URL: [https://www.lindependant.fr
+URL: https://www.lindependant.fr
 
 Restriction Status: YES
 
@@ -164,7 +164,7 @@ Supporting Quote: "Lors de la création de votre Compte ou de la souscription d'
 ![](Privacy%20images/Pasted%20image%2020260704222912.png)
 
 ---
-URL: [https://www.radiofrance.fr
+URL: https://www.radiofrance.fr
 
 Restriction Status: YES
 
@@ -175,7 +175,7 @@ Supporting Quote: "L’Utilisateur s’engage à communiquer des données exacte
 ![](Privacy%20images/Pasted%20image%2020260704223228.png)
 
 ---
-URL: [https://www.lesechos.fr
+URL: https://www.lesechos.fr
 
 Restriction Status: YES
 
@@ -184,5 +184,96 @@ Policy Document Link: [https://www.lesechos.fr/terms/use](https://www.lesechos.f
 Supporting Quote: "Lors de son inscription en ligne, l’Utilisateur et/ou Abonné s’engage à fournir des informations sincères, exactes et complètes comme requis dans le Formulaire d’inscription et à les tenir à jour sans délais."
 
 ![](Privacy%20images/Pasted%20image%2020260704223915.png)
+
+---
+URL: https://www.lavoixdunord.fr/
+
+Restriction Status: YES
+
+Policy Document Link: [https://www.rossel.be/terms-and-conditions/?c=use&terms_id=VDN](https://www.rossel.be/terms-and-conditions/?c=use&terms_id=VDN)
+
+Supporting Quote: "Le Client s’engage, lors de la création de son Compte, à fournir des informations exactes et complètes"
+
+![](Privacy%20images/Pasted%20image%2020260704224414.png)
+
+---
+URL: https://www.planet-racing.fr
+
+Restriction Status: NO
+
+Policy Document Link: https://www.planet-racing.fr/content/3-conditions-generales-de-ventes
+
+Supporting Quote: "N/A"
+
+---
+URL: bravofly.fr
+
+Restriction Status: NO
+
+Policy Document Link: [https://www.bravofly.fr/fr/info/general-conditions.html](https://www.bravofly.fr/fr/info/general-conditions.html)
+
+Supporting Quote: "N/A"
+
+---
+URL: megastar.fr
+
+Restriction Status: NO
+
+Policy Document Link: https://www.megastar.fr/cgv
+
+Supporting Quote: "N/A"
+
+---
+URL: [https://hmsw.fr/](https://hmsw.fr/)
+
+Restriction Status: YES
+
+Policy Document Link: https://www.hostmyservers.fr/cgv
+
+Supporting Quote: "Le client s'engage à communiquer ses coordonnées personnelles exactes à HOSTMYSERVERS il est le seul garant de l'exactitude des informations déclarées le concernant."
+
+![](Privacy%20images/Pasted%20image%2020260704230305.png)
+
+---
+URL: mobilizon.fr
+
+Restriction Status: No
+
+Policy Document Link: [https://framasoft.org/fr/cgu/](https://framasoft.org/fr/cgu/)
+
+Supporting Quote: "N/A"
+
+---
+URL: zalando.fr
+
+Restriction Status: YES
+
+Policy Document Link: [https://accounts.zalando.com/terms-of-use?preferredLanguage=fr-FR](https://accounts.zalando.com/terms-of-use?preferredLanguage=fr-FR)
+
+Supporting Quote: "Vous devez fournir des informations exactes et précises sur vous-même et n’utiliser les données de tiers qu’avec leur consentement."
+
+![](Privacy%20images/Pasted%20image%2020260704231110.png)
+
+---
+URL: [https://www.sudouest.fr/](https://www.sudouest.fr/)
+
+Restriction Status: YES
+
+Policy Document Link: [https://www.sudouest.fr/static/cgu/](https://www.sudouest.fr/static/cgu/)
+
+Supporting Quote: "Toute information personnelle fantaisiste ou calomnieuse est susceptible d’entraîner la fermeture du compte de l’Utilisateur."
+
+![](Privacy%20images/Pasted%20image%2020260704231332.png)
+
+---
+URL: amazon.it
+
+Restriction Status: YES
+
+Policy Document Link: https://www.amazon.it/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+
+Supporting Quote: "You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin..."
+
+![](Privacy%20images/Pasted%20image%2020260704231820.png)
 
 ---
