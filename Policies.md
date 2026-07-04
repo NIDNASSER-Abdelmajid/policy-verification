@@ -41,3 +41,12 @@ Policy Document Link: https://www.lequipe.fr/Page/Conditions-generales-d-utilisa
 Supporting Quote: "N/A"
 
 ---
+URL: https://actu.fr/
+
+Restriction Status: YES
+
+Policy Document Link: https://actu.fr/conditions-generales-d-utilisation
+
+Supporting Quote: "L'Utilisateur s'engage à fournir des informations exactes et complètes lors de la création de son Compte. Il ne peut être créé qu'un seul Compte par Utilisateur."
+
+![](Privacy%20images/Pasted%20image%2020260704210644.png)
