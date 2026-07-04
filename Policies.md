@@ -277,3 +277,56 @@ Supporting Quote: "You may not use a false e-mail address, impersonate any perso
 ![](Privacy%20images/Pasted%20image%2020260704231820.png)
 
 ---
+URL: redd.it
+
+Restriction Status: NO
+
+Policy Document Link: [https://www.reddit.com/policies/user-agreement](https://www.reddit.com/policies/user-agreement)
+
+Supporting Quote: "N/A"
+
+---
+URL: [https://www.repubblica.it/](https://www.repubblica.it/)
+
+Restriction Status: YES
+
+Policy Document Link: https://login.gedi.it/clp/static/condizionigeneraliGEDI/20221015_condizionigenerali_GEDI.pdf
+
+Supporting Quote: "L'utente si impegna a comunicare i dati personali di volta in volta necessari alla creazione dell’Account [...] in forma corretta e veritiera."
+
+![](Pasted%20image%2020260704234232.png)
+
+---
+URL: [https://gazzetta.it
+
+Restriction Status: YES
+
+Policy Document Link: [https://abbonamenti.gazzetta.it/termini-e-condizioni/](https://www.google.com/search?q=https://abbonamenti.gazzetta.it/termini-e-condizioni/)
+
+Supporting Quote: "L’Utente dichiara e garantisce: [...] (iii) che i dati dallo stesso forniti per l’esecuzione del Contratto sono corretti e veritieri; (iv) che aggiornerà i dati forniti a RCS ogniqualvolta si renda necessario."
+
+![](Pasted%20image%2020260704235305.png)
+
+---
+URL: ilmessaggero.it
+
+Restriction Status: YES
+
+Policy Document Link: https://utils.cedsdigital.it/cookies/informativa.html
+
+Supporting Quote: "I dati richiesti per la sottoscrizione di un abbonamento e quelli richiesti per la registrazione sono necessari affinché sia possibile rendere i relativi servizi. Pertanto, nel caso in cui Lei non intenda fornire i dati personali richiesti, non sarà possibile sottoscrivere un abbonamento o registrarsi ai nostri siti."
+
+![](Pasted%20image%2020260704235653.png)
+
+---
+URL: ilmeteo.it
+
+Restriction Status: YES
+
+Policy Document Link: https://www.ilmeteo.it/portale/termini_e_condizioni
+
+Supporting Quote: "Per poter utilizzare alcuni servizi, gli Utenti devono registrarsi fornendo, in maniera veritiera e completa, tutti i dati richiesti nel relativo form di registrazione"
+
+![](Pasted%20image%2020260704235849.png)
+
+---
