@@ -21,3 +21,23 @@ Supporting Quote: "L’Utilisateur s'engage à fournir des informations, exactes
 
 ---
 
+URL: https://www.ouest-france.fr/
+
+Restriction Status: YES
+
+Policy Document Link: https://media.ouest-france.fr/v1/documents/0d2384f041fb887aeb4721aef6081eab-20250829-cgu-fusion-infoconnect-royaume-of-jdlo.pdf
+
+Supporting Quote: "Il ne peut être créé qu'un seul Compte par Utilisateur. Lors de la création de son Compte, l'Utilisateur s'engage à fournir des informations exactes et complètes. Il s'engage à les maintenir à jour pendant toute la durée de validité de son Compte."
+
+![](Privacy%20images/Pasted%20image%2020260704205436.png)
+
+---
+URL: http://lequipe.fr
+
+Restriction Status: NO
+
+Policy Document Link: https://www.lequipe.fr/Page/Conditions-generales-d-utilisation-du-site/1183905
+
+Supporting Quote: "N/A"
+
+---
