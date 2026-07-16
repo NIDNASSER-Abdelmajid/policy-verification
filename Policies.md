@@ -736,7 +736,7 @@ Policy Document Link: https://www.mediahuis.be/nl/voorwaarden/gebruiksvoorwaarde
 
 Supporting Quote: "Als u bepaalde persoonsgegevens meedeelt, garandeert U dat deze juist en volledig zijn. Het meedelen van onjuiste gegevens of gegevens die toebehoren aan derden kan ertoe leiden dat de gebruiker, tijdelijk of definitief, iedere toegang, geheel of gedeeltelijk, wordt ontzegd tot het desbetreffende Mediahuis Domein en/of andere Mediahuis Domeinen."
 
-![](Pasted%20image%2020260716141508.png)
+![](Privacy%20images/Pasted%20image%2020260716141508.png)
 
 ---
 URL: https://www.tijd.be
@@ -751,7 +751,7 @@ b) deze informatie bij eventuele wijzigingen onmiddellijk en spontaan te actuali
 
 Mediafin behoudt zich het recht voor om, wanneer wij redelijke vermoedens hebben dat de verstrekte informatie onjuist, onvolledig of voorbijgestreefd is, de registratie en/of de gevraagde (gratis of betalende) dienst te schorsen of te weigeren."
 
-![](Pasted%20image%2020260716141844.png)
+![](Privacy%20images/Pasted%20image%2020260716141844.png)
 
 ---
 URL: https://www.newpharma.be
@@ -762,7 +762,7 @@ Policy Document Link: https://support.newpharma.eu/hc/fr/articles/8866980678301-
 
 Supporting Quote: "Le Client s’engage à fournir des informations, conformément aux présentes CGV qui soient exactes, précises et à jour."
 
-![](Pasted%20image%2020260716143112.png)
+![](Privacy%20images/Pasted%20image%2020260716143112.png)
 
 ---
 URL: https://www.coolblue.be
@@ -788,7 +788,7 @@ b) d’actualiser immédiatement ces informations en cas de modification éventu
 
 L’Editeur se réserve le droit, lorsqu’il existe des motifs raisonnables de soupçonner que l’information fournie est incorrecte, incomplète ou dépassée, de suspendre ou de refuser l’enregistrement et/ou le service (gratuit ou payant) demandé."
 
-![](Pasted%20image%2020260716144050.png)
+![](Privacy%20images/Pasted%20image%2020260716144050.png)
 
 ---
 URL: https://gratisafhalen.be
@@ -825,7 +825,7 @@ The User represents and warrants that the personal information provided on his o
 
 No prior notification of any form of (partial) suspension or termination of the bpost account and Log-in is required in the event of (suspected) abuse, fraudulent action or other unauthorized use in contravention of these Terms and Conditions (f.ex. when incorrect data have been provided during registration or when the Log-in has been disclosed to third parties,…)."
 
-![](Pasted%20image%2020260716145308.png)
+![](Privacy%20images/Pasted%20image%2020260716145308.png)
 
 ---
 URL: https://www.brusselsairport.be
@@ -853,7 +853,7 @@ Geen valse identiteit aannemen;
 
 Bij niet-naleving van een of meer van deze gedragsregels behouden we ons het recht voor om je de toegang tot onze Diensten te weigeren."
 
-![](Pasted%20image%2020260716145729.png)
+![](Privacy%20images/Pasted%20image%2020260716145729.png)
 
 ---
 URL: https://www.gamma.be
@@ -891,7 +891,7 @@ Policy Document Link: https://www.torfs.be/nl/privacy-veiligheid/faq-10.html
 
 Supporting Quote: "Je bent als enige verantwoordelijk voor de juistheid van die gegevens."
 
-![](Pasted%20image%2020260716151451.png)
+![](Privacy%20images/Pasted%20image%2020260716151451.png)
 
 ---
 URL: https://www.rtl.nl/
@@ -906,7 +906,7 @@ Supporting Quote: "Indien je een DPG Media account aanmaakt op één van onze we
 
 2. deze informatie bij eventuele wijzigingen onmiddellijk te actualiseren."
 
-![](Pasted%20image%2020260716151713.png)
+![](Privacy%20images/Pasted%20image%2020260716151713.png)
 
 ---
 URL: https://www.funda.nl
@@ -928,7 +928,7 @@ Supporting Quote: "De Abonnee is volledig verantwoordelijk voor de juistheid en 
 
 Voor toegang tot onze digitale diensten en de serviceomgeving is een NRC-account met een correct en geverifieerd e-mailadres vereist."
 
-![](Pasted%20image%2020260716152442.png)
+![](Privacy%20images/Pasted%20image%2020260716152442.png)
 
 ---
 URL: https://racingnews365.nl
@@ -943,7 +943,7 @@ correcte, actuele en volledige informatie te verstrekken zoals gevraagd bij de r
 
 deze informatie bij eventuele wijzigingen onmiddellijk te actualiseren."
 
-![](Pasted%20image%2020260716152557.png)
+![](Privacy%20images/Pasted%20image%2020260716152557.png)
 
 ---
 URL: https://www.npo.nl
@@ -985,7 +985,7 @@ Supporting Quote: "The Agreement can only be performed by the Business if the Cu
 
 Takeaway.com is entitled to refuse Orders and cancel Agreements on behalf of the Business, if there is reasonable doubt about the correctness or authenticity of the Order or contact information."
 
-![](Pasted%20image%2020260716153301.png)
+![](Privacy%20images/Pasted%20image%2020260716153301.png)
 
 ---
 URL: https://www.ns.nl
@@ -996,7 +996,7 @@ Policy Document Link: https://www.ns.nl/binaries/_ht_1729258719144/content/asset
 
 Supporting Quote: "De gegevens die je invult bij het aanvragen van een NS-account dienen juist, volledig en actueel te zijn. Het is niet toegestaan om onjuiste gegevens in te vullen. Ook is het niet toegestaan om je te registreren onder naam van iemand anders. Je dient ervoor te zorgen dat jouw gegevens up-to-date zijn en blijven."
 
-![](Pasted%20image%2020260716153510.png)
+![](Privacy%20images/Pasted%20image%2020260716153510.png)
 
 ---
 URL: https://www.hornbach.nl
@@ -1020,7 +1020,7 @@ Supporting Quote: "U gebruikt uw eigen naam en contactgegevens...
 
 Als u een ongeldig e-mailadres of een e-mailadres van iemand anders opgeeft, kunnen wij uw account op elk moment zonder voorafgaande kennisgeving beëindigen."
 
-![](Pasted%20image%2020260716154105.png)
+![](Privacy%20images/Pasted%20image%2020260716154105.png)
 
 ---
 URL: https://www.tvgids.nl
@@ -1075,7 +1075,7 @@ Het is niet toegestaan ... onvolledige, incorrecte of verouderde informatie te v
 
 De Geregistreerde Gebruiker mag slechts één gebruikersaccount hebben."
 
-![](Pasted%20image%2020260716155123.png)
+![](Privacy%20images/Pasted%20image%2020260716155123.png)
 
 ---
 URL: https://www.schiphol.nl
@@ -1099,7 +1099,7 @@ Supporting Quote: "Het is uw verantwoordelijkheid om ervoor te zorgen dat alle a
 
 U bent zelf verantwoordelijk voor het correct doorgeven van (persoons)gegevens die nodig zijn om een correcte boeking tot stand te brengen en uit te voeren."
 
-![](Pasted%20image%2020260716155734.png)
+![](Privacy%20images/Pasted%20image%2020260716155734.png)
 
 ---
 URL: https://www.socialdeal.nl
@@ -1110,7 +1110,7 @@ Policy Document Link: https://www.socialdeal.nl/algemene-voorwaarden/download-pd
 
 Supporting Quote: "Je bent gehouden je gegevens die voor de registratie gevraagd worden, naar waarheid in te vullen."
 
-![](Pasted%20image%2020260716160418.png)
+![](Privacy%20images/Pasted%20image%2020260716160418.png)
 
 ---
 URL: https://www.yourhosting.nl
@@ -1130,7 +1130,7 @@ Policy Document Link: https://www.mediahuis.nl/nl/gebruiksvoorwaarden
 
 Supporting Quote: "De bij het aanmaken van een account te verstrekken gegevens dienen compleet en juist te zijn. Het is niet toegestaan een account op naam van een ander aan te maken of een valse identiteit aan te nemen."
 
-![](Pasted%20image%2020260716160951.png)
+![](Privacy%20images/Pasted%20image%2020260716160951.png)
 
 ---
 URL: https://www.odido.nl
@@ -1141,7 +1141,7 @@ Policy Document Link: https://assets.odido.nl/x/5beeab7baf/20241014-algemene-voo
 
 Supporting Quote: "Je bent er verantwoordelijk voor dat de gegevens die je bij het afsluiten van de overeenkomst aan ons hebt verstrekt, kloppen. Als je verhuist of een ander e-mailadres krijgt, zal je dat op tijd aan ons moeten doorgeven zodat wij de juiste gegevens hebben..."
 
-![](Pasted%20image%2020260716161413.png)
+![](Privacy%20images/Pasted%20image%2020260716161413.png)
 
 ---
 URL: https://www.etos.nl
@@ -1152,7 +1152,7 @@ Policy Document Link: https://www.etos.nl/algemene-voorwaarden.html
 
 Supporting Quote: "Je bent verantwoordelijk voor de juistheid van het invullen van jouw gegevens."
 
-![](Pasted%20image%2020260716161639.png)
+![](Privacy%20images/Pasted%20image%2020260716161639.png)
 
 ---
 URL: https://www.karwei.nl
@@ -1174,7 +1174,7 @@ Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza... qu
 
 No se admitirá el registro y/o envío de datos personales de terceras personas, ni de personas menores de edad o incapaces."
 
-![](Pasted%20image%2020260716162010.png)
+![](Privacy%20images/Pasted%20image%2020260716162010.png)
 
 ---
 
