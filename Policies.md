@@ -728,6 +728,456 @@ You represent that all information you provide to Digital Science is accurate an
 ![](Privacy%20images/Pasted%20image%2020260707165307.png)
 
 ---
+URL: https://www.standaard.be/
+
+Restriction Status: YES
+
+Policy Document Link: https://www.mediahuis.be/nl/voorwaarden/gebruiksvoorwaarden
+
+Supporting Quote: "Als u bepaalde persoonsgegevens meedeelt, garandeert U dat deze juist en volledig zijn. Het meedelen van onjuiste gegevens of gegevens die toebehoren aan derden kan ertoe leiden dat de gebruiker, tijdelijk of definitief, iedere toegang, geheel of gedeeltelijk, wordt ontzegd tot het desbetreffende Mediahuis Domein en/of andere Mediahuis Domeinen."
+
+![](Pasted%20image%2020260716141508.png)
+
+---
+URL: https://www.tijd.be
+
+Restriction Status: YES
+
+Policy Document Link: https://www.tijd.be/service/algemene-voorwaarden.html
+
+Supporting Quote: "De Klant verbindt zich ertoe om:
+a) correcte, accurate, actuele en volledige informatie over zichzelf te verstrekken zoals gevraagd op het registratieformulier; en
+b) deze informatie bij eventuele wijzigingen onmiddellijk en spontaan te actualiseren.
+
+Mediafin behoudt zich het recht voor om, wanneer wij redelijke vermoedens hebben dat de verstrekte informatie onjuist, onvolledig of voorbijgestreefd is, de registratie en/of de gevraagde (gratis of betalende) dienst te schorsen of te weigeren."
+
+![](Pasted%20image%2020260716141844.png)
+
+---
+URL: https://www.newpharma.be
+
+Restriction Status: YES
+
+Policy Document Link: https://support.newpharma.eu/hc/fr/articles/8866980678301-Conditions-g%C3%A9n%C3%A9rales-de-vente-Belgique
+
+Supporting Quote: "Le Client s’engage à fournir des informations, conformément aux présentes CGV qui soient exactes, précises et à jour."
+
+![](Pasted%20image%2020260716143112.png)
+
+---
+URL: https://www.coolblue.be
+
+Restriction Status: NO
+
+Policy Document Link: https://www.coolblue.be/nl/c/algemene-voorwaarden.html
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.lecho.be
+
+Restriction Status: YES
+
+Policy Document Link: https://eymagazine.lecho.be/algemene-voorwaarden/
+
+Supporting Quote: "En vous enregistrant, vous acceptez explicitement :
+
+a) de fournir, comme demandé dans le formulaire d’enregistrement, des informations correctes, précises, actuelles et complètes sur vous, et
+
+b) d’actualiser immédiatement ces informations en cas de modification éventuelle.
+
+L’Editeur se réserve le droit, lorsqu’il existe des motifs raisonnables de soupçonner que l’information fournie est incorrecte, incomplète ou dépassée, de suspendre ou de refuser l’enregistrement et/ou le service (gratuit ou payant) demandé."
+
+![](Pasted%20image%2020260716144050.png)
+
+---
+URL: https://gratisafhalen.be
+
+Restriction Status: NO
+
+Policy Document Link: https://gratisafhalen.be/disclaimer/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.antwerpen.be
+
+Restriction Status: NO
+
+Policy Document Link: https://www.antwerpen.be/info/a-profiel-aanmaak-beheer
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.bpost.be
+
+Restriction Status: YES
+
+Policy Document Link: https://www.bpost.be/sites/default/files/terms-conditions/GTC_bpost_account_EN.pdf
+
+Supporting Quote: "Only one bpost account per natural person will be granted.
+
+...
+
+The User represents and warrants that the personal information provided on his or her registration form, including, without limitation, his or her first and last name, email address and mobile phone, is true and correct. In particular, Users must not enter the details of others and are required to notify bpost without undue delay if there is any change in the personal information they supplied through the 'My profile' tool, available in the participating bpost applications.
+
+...
+
+No prior notification of any form of (partial) suspension or termination of the bpost account and Log-in is required in the event of (suspected) abuse, fraudulent action or other unauthorized use in contravention of these Terms and Conditions (f.ex. when incorrect data have been provided during registration or when the Log-in has been disclosed to third parties,…)."
+
+![](Pasted%20image%2020260716145308.png)
+
+---
+URL: https://www.brusselsairport.be
+
+Restriction Status: NO
+
+Policy Document Link: https://www.brusselsairport.be/en/legal-notices/disclaimer
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.humo.be
+
+Restriction Status: YES
+
+Policy Document Link: https://privacy.dpgmedia.be/nl/document/terms-of-use
+
+Supporting Quote: "Je garandeert dat je de gegevens die je voor je DPG Media-account doorgeeft, zal bijhouden en up-to-date houden zodat ze steeds accuraat en volledig zijn.
+
+...
+
+Geen valse identiteit aannemen;
+
+...
+
+Bij niet-naleving van een of meer van deze gedragsregels behouden we ons het recht voor om je de toegang tot onze Diensten te weigeren."
+
+![](Pasted%20image%2020260716145729.png)
+
+---
+URL: https://www.gamma.be
+
+Restriction Status: NO
+
+Policy Document Link: https://www.gamma.be/nl/klanteninformatie/veiligheid-privacy/algemene-voorwaarden
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.startpeople.be
+
+Restriction Status: NO
+
+Policy Document Link: https://privacy.startpeople.be/fr/prv
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.delijn.be
+
+Restriction Status: NO
+
+Policy Document Link: https://www.delijn.be/fr/content/disclaimer/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.torfs.be
+
+Restriction Status: YES
+
+Policy Document Link: https://www.torfs.be/nl/privacy-veiligheid/faq-10.html
+
+Supporting Quote: "Je bent als enige verantwoordelijk voor de juistheid van die gegevens."
+
+![](Pasted%20image%2020260716151451.png)
+
+---
+URL: https://www.rtl.nl/
+
+Restriction Status: YES
+
+Policy Document Link: https://privacy.dpgmedia.nl/nl/document/terms-of-use
+
+Supporting Quote: "Indien je een DPG Media account aanmaakt op één van onze websites of in één van onze apps, stem je er uitdrukkelijk mee in om:
+
+1. correcte, actuele en volledige informatie te verstrekken zoals gevraagd bij het aanmaken van het DPG Media account, en
+
+2. deze informatie bij eventuele wijzigingen onmiddellijk te actualiseren."
+
+![](Pasted%20image%2020260716151713.png)
+
+---
+URL: https://www.funda.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.funda.nl/voorwaarden-en-beleid/privacyverklaring/consument/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.nrc.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.nrc.nl/leveringsvoorwaarden/
+
+Supporting Quote: "De Abonnee is volledig verantwoordelijk voor de juistheid en volledigheid van de aan de Uitgever door de Abonnee verstrekte informatie.
+
+Voor toegang tot onze digitale diensten en de serviceomgeving is een NRC-account met een correct en geverifieerd e-mailadres vereist."
+
+![](Pasted%20image%2020260716152442.png)
+
+---
+URL: https://racingnews365.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://racingnews365.nl/algemene-voorwaarden
+
+Supporting Quote: "Door u te registreren door middel van het aanmaken van een account op één of meerdere van onze websites gaat u uitdrukkelijk akkoord om:
+
+correcte, actuele en volledige informatie te verstrekken zoals gevraagd bij de registratie, en
+
+deze informatie bij eventuele wijzigingen onmiddellijk te actualiseren."
+
+![](Pasted%20image%2020260716152557.png)
+
+---
+URL: https://www.npo.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://npo.nl/overnpo/algemene-voorwaarden/algemene-voorwaarden-online
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.wehkamp.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.wehkamp.nl/klantenservice/categorie/gegevens-en-voorwaarden/vraag/wat-zijn-jullie-algemene-voorwaarden
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.gamma.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.gamma.nl/klantenservice/algemene-voorwaarden
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.thuisbezorgd.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.thuisbezorgd.nl/en/terms-and-conditions
+
+Supporting Quote: "The Agreement can only be performed by the Business if the Customer provides correct and complete contact and address details when placing the Order.
+
+...
+
+Takeaway.com is entitled to refuse Orders and cancel Agreements on behalf of the Business, if there is reasonable doubt about the correctness or authenticity of the Order or contact information."
+
+![](Pasted%20image%2020260716153301.png)
+
+---
+URL: https://www.ns.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.ns.nl/binaries/_ht_1729258719144/content/assets/ns-nl/voorwaarden/productvoorwaarden/gebruikersvoorwaarden-ns-account.pdf
+
+Supporting Quote: "De gegevens die je invult bij het aanvragen van een NS-account dienen juist, volledig en actueel te zijn. Het is niet toegestaan om onjuiste gegevens in te vullen. Ook is het niet toegestaan om je te registreren onder naam van iemand anders. Je dient ervoor te zorgen dat jouw gegevens up-to-date zijn en blijven."
+
+![](Pasted%20image%2020260716153510.png)
+
+---
+URL: https://www.hornbach.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.hornbach.nl/services/algemene-voorwaarden/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.albelli.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.albelli.nl/algemene-voorwaarden
+
+Supporting Quote: "U gebruikt uw eigen naam en contactgegevens...
+
+...
+
+Als u een ongeldig e-mailadres of een e-mailadres van iemand anders opgeeft, kunnen wij uw account op elk moment zonder voorafgaande kennisgeving beëindigen."
+
+![](Pasted%20image%2020260716154105.png)
+
+---
+URL: https://www.tvgids.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.tvgids.nl/algemene-voorwaarden
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.jouwweb.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.jouwweb.nl/algemene-voorwaarden
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.bonprix.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.bonprix.nl/klantenservice/algemene-voorwaarden/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://topgear.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://topgear.nl/voorwaarden/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.startpagina.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.startpagina.nl/v/voorwaarden
+
+Supporting Quote: "Bezoekers dienen de als verplicht gemarkeerde onderdelen van het Registratieformulier volledig en naar waarheid in te vullen.
+
+...
+
+Het is niet toegestaan ... onvolledige, incorrecte of verouderde informatie te verstrekken bij Registratie, zich voor te doen als iemand anders bij Registratie dan wel zich te registreren middels diverse e-mailadressen.
+
+...
+
+De Geregistreerde Gebruiker mag slechts één gebruikersaccount hebben."
+
+![](Pasted%20image%2020260716155123.png)
+
+---
+URL: https://www.schiphol.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.schiphol.nl/en/privacy-and-cookies/data-processing-website/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.cheaptickets.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://s1.travix.com/cheaptickets/NL/assets/pdf/ctnl-conditions-nl-2026.pdf
+
+Supporting Quote: "Het is uw verantwoordelijkheid om ervoor te zorgen dat alle aan CheapTickets.nl verstrekte gegevens van uzelf – inclusief betaalgegevens – en van eventuele andere Reizigers correct en volledig zijn...
+
+...
+
+U bent zelf verantwoordelijk voor het correct doorgeven van (persoons)gegevens die nodig zijn om een correcte boeking tot stand te brengen en uit te voeren."
+
+![](Pasted%20image%2020260716155734.png)
+
+---
+URL: https://www.socialdeal.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.socialdeal.nl/algemene-voorwaarden/download-pdf/
+
+Supporting Quote: "Je bent gehouden je gegevens die voor de registratie gevraagd worden, naar waarheid in te vullen."
+
+![](Pasted%20image%2020260716160418.png)
+
+---
+URL: https://www.yourhosting.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.yourhosting.nl/over-ons/privacy-en-cookieverklaring/
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.dvhn.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.mediahuis.nl/nl/gebruiksvoorwaarden
+
+Supporting Quote: "De bij het aanmaken van een account te verstrekken gegevens dienen compleet en juist te zijn. Het is niet toegestaan een account op naam van een ander aan te maken of een valse identiteit aan te nemen."
+
+![](Pasted%20image%2020260716160951.png)
+
+---
+URL: https://www.odido.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://assets.odido.nl/x/5beeab7baf/20241014-algemene-voorwaarden-abonnee-consument.pdf
+
+Supporting Quote: "Je bent er verantwoordelijk voor dat de gegevens die je bij het afsluiten van de overeenkomst aan ons hebt verstrekt, kloppen. Als je verhuist of een ander e-mailadres krijgt, zal je dat op tijd aan ons moeten doorgeven zodat wij de juiste gegevens hebben..."
+
+![](Pasted%20image%2020260716161413.png)
+
+---
+URL: https://www.etos.nl
+
+Restriction Status: YES
+
+Policy Document Link: https://www.etos.nl/algemene-voorwaarden.html
+
+Supporting Quote: "Je bent verantwoordelijk voor de juistheid van het invullen van jouw gegevens."
+
+![](Pasted%20image%2020260716161639.png)
+
+---
+URL: https://www.karwei.nl
+
+Restriction Status: NO
+
+Policy Document Link: https://www.karwei.nl/klantenservice/algemene-voorwaarden
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.20minutos.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.20minutos.es/estaticos/aviso-legal-condiciones-generales-servicio.html
+
+Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza... que todos los datos facilitados en el proceso de registro o posteriormente son ciertos, veraces, completos, están actualizados y van referidos a su persona...
+
+No se admitirá el registro y/o envío de datos personales de terceras personas, ni de personas menores de edad o incapaces."
+
+![](Pasted%20image%2020260716162010.png)
+
+---
+
 URL: 
 
 Restriction Status: YES NO
