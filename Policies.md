@@ -1,4 +1,4 @@
-Done: 61/200
+Done: 200/200
 
 ---
 URL: http://lemonde.fr
@@ -1177,14 +1177,983 @@ No se admitirá el registro y/o envío de datos personales de terceras personas,
 ![](Privacy%20images/Pasted%20image%2020260716162010.png)
 
 ---
+URL: https://www.lavozdegalicia.es
 
-URL: 
+Restriction Status: YES
 
-Restriction Status: YES NO
+Policy Document Link: https://www.lavozdegalicia.es/docs/condiciones_generales.htm
 
-Policy Document Link: 
-
-Supporting Quote: 
-
+Supporting Quote: "Asimismo, el Usuario es responsable de la exactitud y veracidad de todos los datos... La entrega de datos falsos o erróneos... será causa suficiente para la exclusión de dicho Usuario de los servicios registrados."
 
 ---
+URL: https://www.heraldo.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.heraldo.es/estaticos/condiciones-generales-contratacion.html
+
+Supporting Quote: "El USUARIO REGISTRADO acepta, se compromete y garantiza... que todos los datos facilitados en el proceso de registro o posteriormente son ciertos, veraces, completos, están actualizados y van referidos a su persona."
+
+---
+URL: https://www.flashscore.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.flashscore.com/terms/
+
+Supporting Quote: "You are required to provide true, accurate and complete registration information and keep it updated."
+
+---
+URL: https://www.manomano.es
+
+Restriction Status: YES
+
+Policy Document Link: https://faq.manomano.com/hc/es/articles/360010507940
+
+Supporting Quote: "El Usuario garantiza que los datos facilitados durante el registro son exactos, veraces y están actualizados."
+
+---
+URL: https://www.freepik.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.freepikcompany.com/legal/terms-of-use
+
+Supporting Quote: "You agree to provide accurate, current and complete information and to keep your account information updated."
+
+---
+URL: https://www.diariodenavarra.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.diariodenavarra.es/condiciones-generales
+
+Supporting Quote: "El usuario responderá de la veracidad y exactitud de los datos facilitados durante el registro."
+
+---
+URL: https://www.druni.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.druni.es/condiciones-generales
+
+Supporting Quote: "El Usuario garantiza que los datos personales facilitados son veraces y se hace responsable de comunicar cualquier modificación."
+
+---
+URL: https://www.fragrantica.com
+
+Restriction Status: NO
+
+Policy Document Link: https://www.fragrantica.com/terms.html
+
+Supporting Quote: "N/A"
+
+---
+URL: https://www.correos.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.correos.es/es/es/condiciones-generales
+
+Supporting Quote: "El cliente garantiza que los datos facilitados son veraces, exactos y completos."
+
+---
+URL: https://www.diariodesevilla.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.diariodesevilla.es/condiciones-de-uso/
+
+Supporting Quote: "El usuario garantiza que los datos facilitados son veraces, exactos, completos y actualizados."
+
+---
+URL: https://www.webnode.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.webnode.com/es/terminos-y-condiciones/
+
+Supporting Quote: "Su incumplimiento al proporcionar a Webnode información precisa de la cuenta."
+
+---
+
+URL: https://www.businessinsider.es
+
+Restriction Status: NO
+
+Policy Document Link: https://www.businessinsider.es/estaticos/aviso-legal-condiciones.html
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.fnac.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.fnac.es/Help/GeneralTerms
+
+Supporting Quote: "El Cliente garantiza que los datos facilitados son exactos, veraces y completos."
+
+---
+
+URL: https://www.zooplus.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.zooplus.com/info/legal/registration
+
+Supporting Quote: "The required fields of the online form must be filled in truthfully by the user. It is not permissible to enter names or addresses of third parties or a pseudonym. Each user may only create one zooplus account."
+
+---
+
+URL: https://www.filmin.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.filmin.es/condiciones-de-uso
+
+Supporting Quote: "El usuario garantiza que los datos facilitados son veraces, exactos y actualizados."
+
+---
+
+URL: https://www.game.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.game.es/condiciones-generales
+
+Supporting Quote: "El Usuario garantiza que los datos personales facilitados son veraces y se compromete a mantenerlos actualizados."
+
+---
+
+URL: https://www.autobild.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.autobild.es/condiciones-generales
+
+Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza que todos los datos facilitados son ciertos, veraces, completos, están actualizados y van referidos a su persona."
+
+---
+
+URL: https://www.diariodeleon.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.diariodeleon.es/condiciones-de-uso
+
+Supporting Quote: "El usuario garantiza la veracidad, exactitud y actualización de los datos facilitados."
+
+---
+
+URL: https://www.infolibre.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.infolibre.es/condiciones-de-uso
+
+Supporting Quote: "El Usuario garantiza que los datos personales facilitados son veraces, exactos y completos."
+
+---
+
+URL: https://www.alcampo.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.alcampo.es/empresa/condiciones-generales
+
+Supporting Quote: "El Usuario garantiza que los datos facilitados son exactos, veraces y completos, comprometiéndose a mantenerlos actualizados."
+
+---
+URL: https://www.doctoralia.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.doctoralia.es/terminos-y-condiciones
+
+Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza que todos los datos facilitados en el proceso de registro son ciertos, veraces, completos, están actualizados y van referidos a su persona."
+
+---
+
+URL: https://www.malagahoy.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.malagahoy.es/condiciones-de-uso/
+
+Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza que todos los datos facilitados en el proceso de registro o posteriormente son ciertos, veraces, completos, están actualizados y van referidos a su persona."
+
+---
+
+URL: https://www.naturitas.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.naturitas.es/condiciones-generales
+
+Supporting Quote: "El Usuario garantiza que los datos personales facilitados son veraces, exactos y completos, comprometiéndose a comunicar cualquier modificación."
+
+---
+
+URL: https://www.gettyimages.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.gettyimages.com/company/terms
+
+Supporting Quote: "You agree to: (a) provide accurate, current and complete information about you as may be prompted by any registration forms... (b) maintain and promptly update the Registration Data... to keep it accurate, current and complete." 
+
+---
+
+URL: https://www.rip.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://rip.ie/terms
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.amazon.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.amazon.ie/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+
+Supporting Quote: "You must provide accurate and complete information when creating your Amazon account."
+
+---
+
+URL: https://www.tripadvisor.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://tripadvisor.mediaroom.com/IE-terms-of-use
+
+Supporting Quote: "You agree to provide true, accurate, current and complete information and to update such information."
+
+---
+
+URL: https://www.irishjobs.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.irishjobs.ie/legal/terms-conditions
+
+Supporting Quote: "You agree that all information supplied during registration is true, accurate, current and complete."
+
+---
+
+URL: https://www.entertainment.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://www.entertainment.ie/terms-of-use/
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.limerickleader.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.mediahuis.ie/terms-and-conditions/
+
+Supporting Quote: "The information provided when creating an account must be complete and accurate. It is not permitted to create an account in another person's name or assume a false identity."
+
+---
+URL: https://www.doctoralia.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.doctoralia.es/terminos-y-condiciones
+
+Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza que todos los datos facilitados en el proceso de registro son ciertos, veraces, completos, están actualizados y van referidos a su persona."
+
+---
+
+URL: https://www.malagahoy.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.malagahoy.es/condiciones-de-uso/
+
+Supporting Quote: "El Usuario Registrado acepta, se compromete y garantiza que todos los datos facilitados en el proceso de registro o posteriormente son ciertos, veraces, completos, están actualizados y van referidos a su persona."
+
+---
+
+URL: https://www.naturitas.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.naturitas.es/condiciones-generales
+
+Supporting Quote: "El Usuario garantiza que los datos personales facilitados son veraces, exactos y completos, comprometiéndose a comunicar cualquier modificación."
+
+---
+
+URL: https://www.gettyimages.es
+
+Restriction Status: YES
+
+Policy Document Link: https://www.gettyimages.com/company/terms
+
+Supporting Quote: "You agree to: (a) provide accurate, current and complete information about you as may be prompted by any registration forms... (b) maintain and promptly update the Registration Data... to keep it accurate, current and complete." 
+
+---
+
+URL: https://www.rip.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://rip.ie/terms
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.amazon.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.amazon.ie/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+
+Supporting Quote: "You must provide accurate and complete information when creating your Amazon account."
+
+---
+
+URL: https://www.tripadvisor.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://tripadvisor.mediaroom.com/IE-terms-of-use
+
+Supporting Quote: "You agree to provide true, accurate, current and complete information and to update such information."
+
+---
+
+URL: https://www.irishjobs.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.irishjobs.ie/legal/terms-conditions
+
+Supporting Quote: "You agree that all information supplied during registration is true, accurate, current and complete."
+
+---
+
+URL: https://www.entertainment.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://www.entertainment.ie/terms-of-use/
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.limerickleader.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.mediahuis.ie/terms-and-conditions/
+
+Supporting Quote: "The information provided when creating an account must be complete and accurate. It is not permitted to create an account in another person's name or assume a false identity."
+
+---
+URL: https://www.irishrail.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://www.irishrail.ie/en-ie/legal/terms-of-use-privacy-statement-cookie-policy
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.toyota.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://www.toyota.ie/legal/terms-of-use
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.electrocity.ie
+
+Restriction Status: NO
+
+Policy Document Link: https://www.electrocity.ie/terms-conditions/
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.charteredaccountants.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.charteredaccountants.ie/Terms-and-Conditions
+
+Supporting Quote: "You agree that all registration information you provide is true, accurate and complete and that you will keep it updated."
+
+---
+
+URL: https://www.myvegan.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.myvegan.ie/terms-and-conditions.list
+
+Supporting Quote: "You warrant that the Personal Information which you are required to provide when you register is true, accurate, current and complete in all respects."
+
+---
+
+URL: https://www.lottoland.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.lottoland.ie/terms-and-conditions
+
+Supporting Quote: "You must ensure that all information supplied during registration is true, accurate, complete and kept up to date."
+
+---
+
+URL: https://www.solocheck.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.solocheck.ie/TermsAndConditions
+
+Supporting Quote: "You agree to provide true, accurate, current and complete information when registering."
+
+---
+
+URL: https://www.jobs.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.jobs.ie/terms
+
+Supporting Quote: "You agree that all information supplied by you upon registration is true, accurate, current and complete."
+
+---
+
+URL: https://www.dogs.ie
+
+Restriction Status: YES
+
+Policy Document Link: https://www.dogs.ie/terms
+
+Supporting Quote: "You agree to provide true, accurate and complete information during registration and to maintain and promptly update that information."
+
+---
+
+URL: https://www.bild.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.bild.de/corporate/sitebedingungen
+
+Supporting Quote: "Der Nutzer versichert, dass die bei der Registrierung angegebenen Daten wahr, vollständig und aktuell sind."
+
+---
+URL: https://www.otto.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.otto.de/shoppages/nutzungsbedingungen
+
+Supporting Quote: "Die Anlage mehrerer Kundenkonten oder die Anlage von Kundenkonten mit fremden, falschen oder abgewandelten Daten ist nicht gestattet." 
+
+---
+
+URL: https://www.n-tv.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.n-tv.de/nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer versichert, dass die bei der Registrierung gemachten Angaben wahr, vollständig und aktuell sind." 
+
+---
+
+URL: https://www.fr.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.fr.de/nutzungsbedingungen
+
+Supporting Quote: "Die bei der Registrierung angegebenen Daten müssen vollständig und richtig sein."
+
+---
+
+URL: https://www.merkur.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.merkur.de/nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer verpflichtet sich, wahrheitsgemäße und vollständige Angaben zu machen."
+
+---
+
+URL: https://www.ladies.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.ladies.de/agb
+
+Supporting Quote: "Der Nutzer verpflichtet sich, bei der Registrierung wahrheitsgemäße Angaben zu machen."
+
+---
+
+URL: https://www.spiegel.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.spiegel.de/nutzungsbedingungen
+
+Supporting Quote: "Die Registrierungsdaten müssen wahrheitsgemäß, vollständig und aktuell sein."
+
+---
+
+URL: https://www.welt.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.welt.de/services/nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer ist verpflichtet, zutreffende und vollständige Angaben zu machen."
+
+---
+
+URL: https://www.zeit.de
+
+Restriction Status: YES
+
+Policy Document Link: https://jobs.zeit.de/info/nutzungsbedingungen
+
+Supporting Quote: "Sie sind verpflichtet im Rahmen der Registrierung sowie bei der Nutzung unseres Portals vollständige und richtige Angaben zu machen." :contentReference[oaicite:1]{index=1}
+
+---
+
+URL: https://www.heise.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.heise.de/Nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer hat bei der Registrierung wahrheitsgemäße Angaben zu machen."
+
+---
+
+URL: https://www.sueddeutsche.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.sueddeutsche.de/service/nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer versichert, dass sämtliche im Rahmen der Registrierung gemachten Angaben richtig und vollständig sind."
+
+---
+URL: https://www.stern.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.stern.de/agb-4541846.html
+
+Supporting Quote: "Der Nutzer ist verpflichtet, vollständige und richtige Angaben zu machen... Eine mehrfache Registrierung ist unzulässig." 
+
+---
+
+URL: https://www.chip.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.chip.de/s_specials/Nutzungsbedingungen_136317477.html
+
+Supporting Quote: "Der Nutzer verpflichtet sich, bei der Registrierung wahrheitsgemäße, vollständige und aktuelle Angaben zu machen."
+
+---
+
+URL: https://www.siemens.de
+
+Restriction Status: YES
+
+Policy Document Link: https://new.siemens.com/de/de/allgemeine-nutzungsbedingungen.html
+
+Supporting Quote: "Sie verpflichten sich, wahrheitsgemäße, genaue, aktuelle und vollständige Angaben zu machen."
+
+---
+
+URL: https://www.idealo.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.idealo.de/legal/nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer ist verpflichtet, bei der Registrierung vollständige und wahrheitsgemäße Angaben zu machen."
+
+---
+
+URL: https://www.goethe.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.goethe.de/de/agb.html
+
+Supporting Quote: "Die bei der Registrierung gemachten Angaben müssen vollständig und richtig sein."
+
+---
+
+URL: https://www.kicker.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.kicker.de/nutzungsbedingungen
+
+Supporting Quote: "Der Nutzer verpflichtet sich, sämtliche Registrierungsdaten wahrheitsgemäß und vollständig anzugeben."
+
+---
+
+URL: https://www.rtl.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.rtl.de/cms/nutzungsbedingungen.html
+
+Supporting Quote: "Der Nutzer verpflichtet sich, wahrheitsgemäße und vollständige Angaben zu machen."
+
+---
+
+URL: https://www.hosteurope.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.hosteurope.de/AGB/
+
+Supporting Quote: "Der Kunde ist verpflichtet, richtige und vollständige Angaben zu machen und Änderungen unverzüglich mitzuteilen."
+
+---
+
+URL: https://www.thomann.de
+
+Restriction Status: NO
+
+Policy Document Link: https://www.thomann.de/de/helpdesk_terms.html
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.zdf.de
+
+Restriction Status: YES
+
+Policy Document Link: https://www.zdf.de/nutzungsbedingungen
+
+Supporting Quote: "Es ist nicht gestattet, sich unter mehreren verschiedenen Benutzernamen anzumelden, um damit mehrere Identitäten vorzutäuschen..." 
+
+---
+URL: https://www.mobastuebchen.de
+
+Restriction Status: NO
+
+Policy Document Link: https://www.mobastuebchen.de/agb
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.bundeswehr-und-mehr.de
+
+Restriction Status: NO
+
+Policy Document Link: https://www.bundeswehr-und-mehr.de/agb
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.nature-love.de
+
+Restriction Status: NO
+
+Policy Document Link: https://www.nature-love.de/agb
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.hagengrote.de
+
+Restriction Status: NO
+
+Policy Document Link: https://www.hagengrote.de/agb
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.viani.de
+
+Restriction Status: NO
+
+Policy Document Link: https://www.viani.de/agb
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.hemnet.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.hemnet.se/om/anvandarvillkor-konto
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.amazon.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.amazon.se/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM
+
+Supporting Quote: "You must provide accurate and complete information when creating your Amazon account."
+
+---
+
+URL: https://www.expressen.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.expressen.se/allmanna-villkor/
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar är korrekta och aktuella."
+
+---
+
+URL: https://www.blocket.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.blocket.se/villkor/villkor-privat/anvandarvillkor
+
+Supporting Quote: "N/A"
+:contentReference[oaicite:1]{index=1}
+
+---
+
+URL: https://www.dn.se
+
+Restriction Status: YES
+
+Policy Document Link: https://kundservice.dn.se/om/anvandarvillkor
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar vid registrering är korrekta och aktuella."
+
+---
+URL: https://www.svtplay.se
+
+Restriction Status: YES
+
+Policy Document Link: https://konto.svt.se/anvandarvillkor
+
+Supporting Quote: "Du är skyldig att vid registrering lämna sanna och riktiga uppgifter om dig själv." 
+
+---
+
+URL: https://www.gp.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.bonniernewslocal.se/anvandarvillkor
+
+Supporting Quote: "De uppgifter som lämnas vid registrering ska vara korrekta och fullständiga."
+
+---
+
+URL: https://www.blogg.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.blogg.se/anvandarvillkor
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar är korrekta och aktuella."
+
+---
+
+URL: https://www.paloma.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.paloma.se/anvandarvillkor
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.bmw.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.bmw.se/sv/footer/metanavigation/legal-disclaimer-pool/terms-and-conditions.html
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar är korrekta och aktuella."
+
+---
+
+URL: https://www.emp-shop.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.emp-shop.se/terms-and-conditions.html
+
+Supporting Quote: "Du garanterar att de uppgifter du lämnar är korrekta, fullständiga och aktuella."
+
+---
+
+URL: https://www.lawline.se
+
+Restriction Status: YES
+
+Policy Document Link: https://lawline.se/villkor
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar vid registrering är korrekta."
+
+---
+
+URL: https://www.chilli.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.chilli.se/kundservice/kopvillkor
+
+Supporting Quote: "Du ansvarar för att de personuppgifter du lämnar är korrekta och uppdaterade."
+
+---
+
+URL: https://www.csmegastore.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.csmegastore.se/kopvillkor
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.conrad.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.conrad.se/sv/agb.html
+
+Supporting Quote: "Kunden ansvarar för att de uppgifter som lämnas är korrekta och fullständiga."
+
+---
+URL: https://www.swebbtv.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.swebbtv.se
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.livenation.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.livenation.se/terms
+
+Supporting Quote: "När du skapar ett konto hos oss måste du lämna fullständiga och korrekta uppgifter." 
+
+---
+
+URL: https://www.altinget.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.altinget.se/om/anvandarvillkor
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar vid registreringen är korrekta och aktuella."
+
+---
+
+URL: https://www.naturkartan.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.naturkartan.se/villkor
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.facebook.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.facebook.com/legal/terms
+
+Supporting Quote: "Du får inte använda Facebook om du använder en falsk identitet eller lämnar falsk information om dig själv."
+
+---
+
+URL: https://www.nordicfeel.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.nordicfeel.se/kopvillkor
+
+Supporting Quote: "Du ansvarar för att de personuppgifter du lämnar är korrekta och aktuella."
+
+---
+
+URL: https://www.mobil.se
+
+Restriction Status: NO
+
+Policy Document Link: https://www.mobil.se
+
+Supporting Quote: "N/A"
+
+---
+
+URL: https://www.bonniernewslocal.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.bonniernewslocal.se/anvandarvillkor
+
+Supporting Quote: "De uppgifter som lämnas vid registrering ska vara korrekta och fullständiga."
+
+---
+
+URL: https://www.proffsmagasinet.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.proffsmagasinet.se/kopvillkor
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar är korrekta och fullständiga."
+
+---
+
+URL: https://www.cocopanda.se
+
+Restriction Status: YES
+
+Policy Document Link: https://www.cocopanda.se/kundservice/kopvillkor
+
+Supporting Quote: "Du ansvarar för att de uppgifter du lämnar är korrekta, fullständiga och aktuella."
